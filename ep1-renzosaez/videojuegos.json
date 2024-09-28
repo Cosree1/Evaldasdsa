@@ -1,0 +1,40 @@
+{
+    "juegos": [
+      {
+        "titulo": "Call of Duty: Infinite Warfare",
+        "ventas": 3.6,
+        "desarrollador": "Infinity Ward"
+      },
+      {
+        "titulo": "FIFA 17",
+        "ventas": 10.3,
+        "desarrollador": "EA Sports"
+      },
+      {
+        "titulo": "Grand Theft Auto V",
+        "ventas": 5.0,
+        "desarrollador": "Rockstar Games"
+      },
+      {
+        "titulo": "Battlefield 1",
+        "ventas": 7.0,
+        "desarrollador": "DICE"
+      },
+      {
+        "titulo": "Pokémon Sun and Moon",
+        "ventas": 16.1,
+        "desarrollador": "Game Freak"
+      },
+      {
+        "titulo": "The Legend of Zelda: Twilight Princess HD",
+        "ventas": 1.2,
+        "desarrollador": "Nintendo"
+      },
+      {
+        "titulo": "Minecraft",
+        "ventas": 3.3,
+        "desarrollador": "Mojang Studios"
+      }
+    ]
+  }
+  
